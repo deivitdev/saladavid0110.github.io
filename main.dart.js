@@ -54289,7 +54289,7 @@ K(a,b){var s=null
 return new A.uO(A.alA(A.zc(A.i2(s,A.jY(A.a([B.y0,B.jv,A.a5u(A.aaK(A.h_(A.ak(this.c,!0,t.l7),B.S,B.O),s),7)],t.p),B.b1,B.O,B.ar),B.p,s,B.uf,s,s,s,s,s,s,s,s),s,s),!0),s)}}
 A.Bd.prototype={
 K(a,b){var s=null,r=t.p
-return new A.mW(3,A.vh(B.bU,A.a([new A.rY(A.alv(s,s,new A.mX("assets/bg.jpg",s,s)),B.k6,s),A.i2(s,s,B.p,A.ax(168,25,25,35),s,s,s,s,s,s,s,s,s),new A.d5(B.xU,A.h_(A.a([A.e5("Discover my Amazing \nArt Space!",s,s,A.aA(b).R8.c.VT(B.j,B.az),s,s),B.Df,new A.d5(B.aO,new A.Au(new A.QN(),s,s,s,A.aaY(s,s,B.b0,s,s,s,s,s,s,s,B.xW,s,s,s,s,s,s,s),B.p,s,!1,B.JB,s),s)],r),B.b1,B.CA),s)],r),B.t8),s)}}
+return new A.mW(3,A.vh(B.bU,A.a([new A.rY(A.alv(s,s,new A.mX("assets/bg.jpg",s,s)),B.k6,s),A.i2(s,s,B.p,A.ax(168,25,25,35),s,s,s,s,s,s,s,s,s),new A.d5(B.xU,A.h_(A.a([A.e5("Creativity with technology \nFlutter!",s,s,A.aA(b).R8.c.VT(B.j,B.az),s,s),B.Df,new A.d5(B.aO,new A.Au(new A.QN(),s,s,s,A.aaY(s,s,B.b0,s,s,s,s,s,s,s,B.xW,s,s,s,s,s,s,s),B.p,s,!1,B.JB,s),s)],r),B.b1,B.CA),s)],r),B.t8),s)}}
 A.QN.prototype={
 $0(){},
 $S:0}
